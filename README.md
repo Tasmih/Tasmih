@@ -16,7 +16,6 @@ I like keeping my code clean and simple, and I learn best by building real, end-
 
 - 📍 **Location:** Dhaka,Bangladesh
 - 📫 **Email:** tasmih.mow88@gmail.com
-- https://www.linkedin.com/in/tasmih-rob-mow
 - 💬 **Ask me about:** JavaScript, React, Next.js, Express, MongoDB
 
 ---
