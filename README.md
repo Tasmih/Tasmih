@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-12235C?style=flat-square&labelColor=1EC8C0&color=0F2027" />
-<img src="https://komarev.com/ghpvc/?username=Tasmih&color=1EC8C0&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Tasmih?style=flat-square&color=1EC8C0&labelColor=12235C&label=Followers" />
+<img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-12235C?style=for-the-badge&labelColor=1EC8C0&color=0F2027" />
+<img src="https://komarev.com/ghpvc/?username=Tasmih&color=1EC8C0&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Tasmih?style=for-the-badge&color=1EC8C0&labelColor=12235C&label=Followers" />
 
 </div>
 
@@ -106,15 +106,15 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" /><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-1EC8C0?style=flat-square&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-1EC8C0?style=for-the-badge&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 <br/><br/>
 
@@ -122,10 +122,10 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" /><br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-1EC8C0?style=flat-square&logoColor=white)
-![API Design](https://img.shields.io/badge/API_Design-12235C?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1EC8C0?style=for-the-badge&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-12235C?style=for-the-badge&logoColor=white)
 
 <br/><br/>
 
@@ -133,19 +133,19 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 
 <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" /><br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![MongoDB Native Driver](https://img.shields.io/badge/MongoDB_Native_Driver-47A248?style=flat-square&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-1EC8C0?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MongoDB Native Driver](https://img.shields.io/badge/MongoDB_Native_Driver-47A248?style=for-the-badge&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1EC8C0?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 <br/><br/>
 
 **🤖 AI**
 
-![Gemini AI](https://img.shields.io/badge/Gemini_AI_Integration-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
-![AI Assisted](https://img.shields.io/badge/AI--Assisted_Development-8E75FF?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E75FF?style=flat-square&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI_Integration-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI--Assisted_Development-8E75FF?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E75FF?style=for-the-badge&logoColor=white)
 
 <br/><br/>
 
@@ -153,13 +153,13 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,npm" alt="Tools & Workflow" /><br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -168,6 +168,10 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
 
 ## 🌟 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=1EC8C0&center=true&vCenter=true&width=500&lines=Explore+my+full-stack+builds+below" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -190,9 +194,9 @@ A full-stack marketplace platform connecting service providers with customers th
 `Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB` `Better Auth`
 
 <p align="center">
-<a href="https://github.com/Tasmih/fixmate-home-service-marketplace"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Tasmih/fixmate-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://fixmate-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/fixmate-home-service-marketplace"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/fixmate-server"><img src="https://img.shields.io/badge/Backend-12235C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://fixmate-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -212,9 +216,9 @@ An intelligent learning assistant platform offering automated study plan generat
 `Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB Native Driver` `Gemini AI`
 
 <p align="center">
-<a href="https://github.com/Tasmih/StudyPilot-AI-Client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Tasmih/StudyPilot-AI-Server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://studypilot-ai-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/StudyPilot-AI-Client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/StudyPilot-AI-Server"><img src="https://img.shields.io/badge/Backend-12235C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://studypilot-ai-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -237,9 +241,9 @@ A full-stack digital publishing platform connecting readers, authors, and platfo
 `Next.js` `React` `Tailwind CSS` `Express.js` `Node.js` `MongoDB` `Stripe API`
 
 <p align="center">
-<a href="https://github.com/Tasmih/fable-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Tasmih/fable-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://fable-client-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/fable-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/fable-server"><img src="https://img.shields.io/badge/Backend-12235C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://fable-client-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -259,9 +263,9 @@ A responsive job marketplace web application enabling job seekers to search posi
 `Next.js` `React` `Tailwind CSS` `HeroUI` `Express.js` `MongoDB`
 
 <p align="center">
-<a href="https://github.com/Tasmih/Hireloop-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Tasmih/Hireloop-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://hireloop-client-ten.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/Hireloop-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/Hireloop-server"><img src="https://img.shields.io/badge/Backend-12235C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://hireloop-client-ten.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -284,9 +288,9 @@ A production-oriented study environment platform for browsing study locations an
 `React` `Next.js` `Node.js` `Express.js` `JWT` `MongoDB`
 
 <p align="center">
-<a href="https://github.com/Tasmih/study-nook-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Tasmih/StudyNook-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://study-nook-client-three.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/study-nook-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/StudyNook-server"><img src="https://img.shields.io/badge/Backend-12235C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://study-nook-client-three.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -306,8 +310,8 @@ An interactive application with a responsive UI designed to expand vocabulary th
 `React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
 
 <p align="center">
-<a href="https://github.com/Tasmih/english-vocabulary-app"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://english-pursuing-janala.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/english-vocabulary-app"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://english-pursuing-janala.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
 </td>
@@ -330,8 +334,8 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 `React` `JavaScript` `Tailwind CSS` `HTML5`
 
 <p align="center">
-<a href="https://github.com/Tasmih/digitools-react-cart"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://digitools-react-cart-management.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/digitools-react-cart"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://digitools-react-cart-management.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
 </td>
@@ -375,8 +379,8 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 
 <div align="center">
 
-![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native-1EC8C0?style=flat-square)
-![English](https://img.shields.io/badge/🇬🇧_English-Professional_Working_Proficiency-12235C?style=flat-square)
+![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native-1EC8C0?style=for-the-badge)
+![English](https://img.shields.io/badge/🇬🇧_English-Professional_Working_Proficiency-12235C?style=for-the-badge)
 
 </div>
 
@@ -427,6 +431,10 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
 
 ## 📫 Connect With Me
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=1EC8C0&center=true&vCenter=true&width=500&lines=Let's+build+something+great+together!" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
