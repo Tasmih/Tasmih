@@ -421,19 +421,37 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 
 ## 🐍 Contribution Snake
 
-<!--
-IMPORTANT — one-time setup needed to make this animation appear:
-This image only renders after the "generate-snake" GitHub Action (in the
-snake.yml file provided alongside this README) has run at least once on
-the Tasmih/Tasmih repository. See the setup notes shared with this file.
--->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
+name: Generate Snake Animation
 
-<br/>
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Tasmih
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the generated files to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ## 📫 Connect With Me
 
