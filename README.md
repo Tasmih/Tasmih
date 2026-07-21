@@ -403,20 +403,16 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 
 <br/>
 
-## 🏆 GitHub Profile Trophy
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=onedark" alt="Tasmih's GitHub Trophy" />
+
+### 🏆 GitHub Achievements & Stats
+
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/Tasmih/Tasmih?style=for-the-badge&color=1EC8C0&labelColor=12235C)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Tasmih?style=for-the-badge&color=1EC8C0&labelColor=12235C)
+![GitHub Followers](https://img.shields.io/github/followers/Tasmih?style=for-the-badge&color=1EC8C0&labelColor=12235C)
+
 </div>
 
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasmih&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasmih&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 <br/>
 
 ## 📈 GitHub Activity
