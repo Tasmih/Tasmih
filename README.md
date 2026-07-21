@@ -31,9 +31,9 @@ I specialize in crafting **scalable, maintainable web applications** using **Rea
 
 <div align="center">
 
-| 📍 Location | 📫 Email | 📞 Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 💬 Ask me about |
+| 📍 Location | 📫 Email | 📞 Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 💬 Ask me about |
 |:---:|:---:|:---:|:---:|
-| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | +880&nbsp;1796-585789 | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
+| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | <span style="white-space: nowrap;">+880 1796-585789</span> | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
 
 </div>
 
