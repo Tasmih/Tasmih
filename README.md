@@ -1,45 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1EC8C0,100:12235C&height=220&section=header&text=Tasmih%20Rob%20Mow&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20&fontFamily=Fira+Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:12235C,70:1EC8C0,100:0F2027&height=230&section=header&text=Tasmih%20Rob%20Mow&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Web%20Developer&descAlignY=52&descSize=20&fontFamily=Fira+Code" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1EC8C0&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Building+with+React%2C+Next.js+%26+Node.js;TypeScript+%7C+MongoDB+%7C+Better+Auth;AI-Assisted+Development+Workflow;Turning+ideas+into+scalable+web+products" alt="Typing SVG" />
 
 <br/>
 
-<a href="mailto:tasmih.mow88@gmail.com"><img src="https://img.shields.io/badge/Email-tasmih.mow88%40gmail.com-1EC8C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tasmih-rob-mow"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Tasmih"><img src="https://img.shields.io/badge/GitHub-Tasmih-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:tasmih.mow88@gmail.com"><img src="https://img.shields.io/badge/Email-1EC8C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tasmih-rob-mow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/tasmih.rob.mow.2024"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://github.com/Tasmih"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-12235C?style=flat-square&labelColor=1EC8C0&color=0F2027" />
+<img src="https://komarev.com/ghpvc/?username=Tasmih&color=1EC8C0&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Tasmih?style=flat-square&color=1EC8C0&labelColor=12235C&label=Followers" />
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
+
 ## 👨‍💻 About Me
 
-Full Stack Web Developer building production-oriented web applications with the **MERN + Next.js** ecosystem.
+> Full Stack Web Developer building production-oriented web applications with the **MERN + Next.js** ecosystem.
 
 I specialize in crafting **scalable, maintainable web applications** using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB** — with clean architecture, robust REST APIs, responsive UI, and an **AI-assisted development workflow**.
 
-| | |
-|---|---|
-| 📍 **Location** | Dhaka, Bangladesh |
-| 📫 **Email** | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) |
-| 💬 **Ask me about** | React, Next.js, TypeScript, Node.js, Express.js, MongoDB, Better Auth, AI Integration |
+<div align="center">
+
+| 📍 Location | 📫 Email | 💬 Ask me about |
+|:---:|:---:|:---:|
+| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
+
+</div>
 
 <br/>
 
 ## 💼 Career Goals
 
-- 🎯 **Target Roles:** Full Stack Developer · Frontend Developer · React/Next.js Developer
-- ⚡ **Focus Areas:** Scalable web applications, AI-powered products, and modern frontend architecture
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Target Roles**
+
+Full Stack Developer · Frontend Developer · React/Next.js Developer
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Focus Areas**
+
+Scalable web applications, AI-powered products, and modern frontend architecture
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🔭 Currently Working On
 
-- 🛠️ **FixMate** — Building a full-stack home service marketplace with Next.js, TypeScript, and Better Auth
-- 🤖 **StudyPilot AI** — Developing an AI-powered learning companion with Gemini AI integration
-- 📚 Strengthening full-stack engineering skills across the MERN + Next.js ecosystem
+<div align="center">
+
+| Status | Project | Description |
+|:---:|---|---|
+| 🛠️ | **FixMate** | Building a full-stack home service marketplace with Next.js, TypeScript, and Better Auth |
+| 🤖 | **StudyPilot AI** | Developing an AI-powered learning companion with Gemini AI integration |
+| 📚 | **Continuous Learning** | Strengthening full-stack engineering skills across the MERN + Next.js ecosystem |
+
+</div>
 
 <br/>
 
@@ -56,49 +89,78 @@ I specialize in crafting **scalable, maintainable web applications** using **Rea
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
+
 ## 🧰 Tech Stack
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
-
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS` `HeroUI` `Framer Motion`
-
 <br/>
 
-**Backend**
+**🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" /><br/>
 
-`Node.js` `Express.js` `REST API` `API Design`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-1EC8C0?style=flat-square&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<br/>
+<br/><br/>
 
-**Database & Auth**
+**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" /><br/>
 
-`MongoDB` `Mongoose` `MongoDB Native Driver` `Better Auth` `JWT Authentication`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1EC8C0?style=flat-square&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-12235C?style=flat-square&logoColor=white)
 
-<br/>
+<br/><br/>
 
-**AI**
+**🗄️ Database & Auth**
 
-`Gemini AI Integration` `AI-Assisted Development` `Prompt Engineering`
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" /><br/>
 
-<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MongoDB Native Driver](https://img.shields.io/badge/MongoDB_Native_Driver-47A248?style=flat-square&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1EC8C0?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Tools & Workflow**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,npm" alt="Tools & Workflow" />
+**🤖 AI**
 
-`Git` `GitHub` `VS Code` `Vercel` `Netlify` `Postman` `npm`
+![Gemini AI](https://img.shields.io/badge/Gemini_AI_Integration-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI--Assisted_Development-8E75FF?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E75FF?style=flat-square&logoColor=white)
+
+<br/><br/>
+
+**🛠️ Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,npm" alt="Tools & Workflow" /><br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
 
 ## 🌟 Featured Projects
 
@@ -106,10 +168,10 @@ I specialize in crafting **scalable, maintainable web applications** using **Rea
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ FixMate
-**Home Service Marketplace Platform**
+<h3 align="center">🛠️ FixMate</h3>
+<p align="center"><b>Home Service Marketplace Platform</b></p>
 
 A full-stack marketplace platform connecting service providers with customers through an intuitive interface and structured backend API.
 
@@ -120,15 +182,18 @@ A full-stack marketplace platform connecting service providers with customers th
 - Secure authentication system
 - REST API based backend architecture
 
-**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB` `Better Auth`
+`Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB` `Better Auth`
 
-🔗 [Frontend](https://github.com/Tasmih/fixmate-home-service-marketplace) · [Backend](https://github.com/Tasmih/fixmate-server)
+<p align="center">
+<a href="https://github.com/Tasmih/fixmate-home-service-marketplace"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/fixmate-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 StudyPilot AI
-**AI-Powered Learning Companion**
+<h3 align="center">🤖 StudyPilot AI</h3>
+<p align="center"><b>AI-Powered Learning Companion</b></p>
 
 An intelligent learning assistant platform offering automated study plan generation, AI-powered learning assistance, and course guidance with Gemini AI integration.
 
@@ -138,18 +203,22 @@ An intelligent learning assistant platform offering automated study plan generat
 - Personalized learning support and guidance
 - Explore templates and interactive dashboards
 
-**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB Native Driver` `Gemini AI`
+`Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB Native Driver` `Gemini AI`
 
-🔗 [Frontend](https://github.com/Tasmih/StudyPilot-AI-Client) · [Backend](https://github.com/Tasmih/StudyPilot-AI-Server) · [Live Demo](https://studypilot-ai-client.vercel.app)
+<p align="center">
+<a href="https://github.com/Tasmih/StudyPilot-AI-Client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/StudyPilot-AI-Server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://studypilot-ai-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Fable
-**Ebook Sharing & Creator Platform**
+<h3 align="center">📚 Fable</h3>
+<p align="center"><b>Ebook Sharing & Creator Platform</b></p>
 
 A full-stack digital publishing platform connecting readers, authors, and platform managers with integrated Stripe payment processing.
 
@@ -159,15 +228,18 @@ A full-stack digital publishing platform connecting readers, authors, and platfo
 - Stripe API payment processing integration
 - Administrative content workflow management
 
-**Tech Stack:** `Next.js` `React` `Tailwind CSS` `Express.js` `Node.js` `MongoDB` `Stripe API`
+`Next.js` `React` `Tailwind CSS` `Express.js` `Node.js` `MongoDB` `Stripe API`
 
-🔗 [Frontend](https://github.com/Tasmih/fable-client) · [Backend](https://github.com/Tasmih/fable-server)
+<p align="center">
+<a href="https://github.com/Tasmih/fable-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/fable-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 HireLoop
-**Job Management Platform**
+<h3 align="center">💼 HireLoop</h3>
+<p align="center"><b>Job Management Platform</b></p>
 
 A responsive job marketplace web application enabling job seekers to search positions and recruiters to post listings and track applications.
 
@@ -177,18 +249,21 @@ A responsive job marketplace web application enabling job seekers to search posi
 - Application submission and tracking workflow
 - Company profile and listing management
 
-**Tech Stack:** `Next.js` `React` `Tailwind CSS` `HeroUI` `Express.js` `MongoDB`
+`Next.js` `React` `Tailwind CSS` `HeroUI` `Express.js` `MongoDB`
 
-🔗 [Frontend](https://github.com/Tasmih/Hireloop-client) · [Backend](https://github.com/Tasmih/Hireloop-server)
+<p align="center">
+<a href="https://github.com/Tasmih/Hireloop-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/Hireloop-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📖 StudyNook
-**Study Room Booking System & API**
+<h3 align="center">📖 StudyNook</h3>
+<p align="center"><b>Study Room Booking System & API</b></p>
 
 A production-oriented study environment platform for browsing study locations and reserving slots with conflict-resolution backend logic.
 
@@ -198,15 +273,19 @@ A production-oriented study environment platform for browsing study locations an
 - RESTful API backend for slot management
 - Session tracking and state persistence
 
-**Tech Stack:** `React` `Next.js` `Node.js` `Express.js` `JWT` `MongoDB`
+`React` `Next.js` `Node.js` `Express.js` `JWT` `MongoDB`
 
-🔗 [Frontend](https://github.com/Tasmih/study-nook-client) · [Backend](https://github.com/Tasmih/StudyNook-server) · [Live Demo](https://study-nook-client-three.vercel.app)
+<p align="center">
+<a href="https://github.com/Tasmih/study-nook-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tasmih/StudyNook-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://study-nook-client-three.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 English Vocabulary App
-**Interactive Vocabulary Learning App**
+<h3 align="center">📝 English Vocabulary App</h3>
+<p align="center"><b>Interactive Vocabulary Learning App</b></p>
 
 An interactive application with a responsive UI designed to expand vocabulary through organized word lists, meanings, and practice modules.
 
@@ -216,18 +295,20 @@ An interactive application with a responsive UI designed to expand vocabulary th
 - Search functionality across word entries
 - Custom word bookmarking module
 
-**Tech Stack:** `React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+`React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
 
-🔗 [Frontend](https://github.com/Tasmih/english-vocabulary-app)
+<p align="center">
+<a href="https://github.com/Tasmih/english-vocabulary-app"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Digitools
-**React Cart Management Application**
+<h3 align="center">🛒 Digitools</h3>
+<p align="center"><b>React Cart Management Application</b></p>
 
 A responsive web interface demonstrating dynamic e-commerce cart management, state persistence, price calculations, and modern UI workflows.
 
@@ -237,12 +318,42 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 - Persistent cart state handling
 - Fully responsive user interface
 
-**Tech Stack:** `React` `JavaScript` `Tailwind CSS` `HTML5`
+`React` `JavaScript` `Tailwind CSS` `HTML5`
 
-🔗 [Frontend](https://github.com/Tasmih/digitools-react-cart)
+<p align="center">
+<a href="https://github.com/Tasmih/digitools-react-cart"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
+
+## 🎓 Education & Professional Training
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+
+Master of Pharmacy (M.Pharm)
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Professional Training**
+
+**AI Driven Full Stack Web Engineer Bootcamp** — *Programming Hero*
+
+Completed an intensive full-stack web engineering bootcamp focused on building production-ready web applications with modern development practices and AI-assisted workflows.
+
+**Key Technologies:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Mongoose, Better Auth, Git/GitHub, AI-Assisted Coding.
 
 </td>
 </tr>
@@ -250,33 +361,29 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 
 <br/>
 
-## 🎓 Education & Professional Training
-
-**Education**
-- Master of Pharmacy (M.Pharm)
-
-**Professional Training**
-- **AI Driven Full Stack Web Engineer Bootcamp** — *Programming Hero*
-  Completed an intensive full-stack web engineering bootcamp focused on building production-ready web applications with modern development practices and AI-assisted workflows.
-  **Key Technologies:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Mongoose, Better Auth, Git/GitHub, AI-Assisted Coding.
-
-<br/>
-
 ## 🗣️ Languages
 
-- 🇧🇩 **Bengali:** Native
-- 🇬🇧 **English:** Professional Working Proficiency
+<div align="center">
+
+![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native-1EC8C0?style=flat-square)
+![English](https://img.shields.io/badge/🇬🇧_English-Professional_Working_Proficiency-12235C?style=flat-square)
+
+</div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tasmih&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Tasmih's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasmih&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tasmih&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=1EC8C0&icon_color=1EC8C0" alt="Tasmih's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasmih&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=1EC8C0" alt="Most Used Languages" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasmih&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="60%" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasmih&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=1EC8C0&fire=1EC8C0" alt="GitHub Streak" width="60%" />
 
 </div>
 
@@ -285,7 +392,7 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&no-frame=true&margin-w=10&column=4" alt="GitHub Profile Trophy" />
 </div>
 
 <br/>
@@ -293,7 +400,7 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tasmih&theme=tokyonight&hide_border=true" alt="Tasmih's GitHub Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tasmih&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1EC8C0&line=1EC8C0&point=ffffff" alt="Tasmih's GitHub Activity Graph" width="100%" />
 </div>
 
 <br/>
@@ -302,18 +409,12 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 
 <!-- Note: Requires GitHub Action workflow setup at .github/workflows/snake.yml to generate output/github-contribution-grid-snake.svg -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tasmih&color=1EC8C0&style=flat-square)
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1EC8C0,100:12235C&height=3&width=100%25" width="100%"/>
 
 ## 📫 Connect With Me
 
@@ -329,7 +430,9 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 <br/>
 
 <div align="center">
-<i>Building, learning, and improving every day.</i>
+<i>✨ Building, learning, and improving every day. ✨</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12235C,100:1EC8C0&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1EC8C0,100:12235C&height=120&section=footer" width="100%"/>
