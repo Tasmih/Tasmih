@@ -31,9 +31,9 @@ I specialize in crafting **scalable, maintainable web applications** using **Rea
 
 <div align="center">
 
-| 📍 Location | 📫 Email | 💬 Ask me about |
-|:---:|:---:|:---:|
-| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
+| 📍 Location | 📫 Email | 📞 Contact | 💬 Ask me about |
+|:---:|:---:|:---:|:---:|
+| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | +880 1796-585789 | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
 
 </div>
 
@@ -84,6 +84,11 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 |:---:|:---:|:---:|
 | 🤖 **StudyPilot AI** | [studypilot-ai-client.vercel.app](https://studypilot-ai-client.vercel.app) | ▲ Vercel |
 | 📖 **StudyNook** | [study-nook-client-three.vercel.app](https://study-nook-client-three.vercel.app) | ▲ Vercel |
+| 🛠️ **FixMate** | [fixmate-client.vercel.app](https://fixmate-client.vercel.app) | ▲ Vercel |
+| 📚 **Fable** | [fable-client-zeta.vercel.app](https://fable-client-zeta.vercel.app) | ▲ Vercel |
+| 💼 **HireLoop** | [hireloop-client-ten.vercel.app](https://hireloop-client-ten.vercel.app) | ▲ Vercel |
+| 📝 **English Vocabulary App** | [english-pursuing-janala.netlify.app](https://english-pursuing-janala.netlify.app) | ◆ Netlify |
+| 🛒 **Digitools** | [digitools-react-cart-management.netlify.app](https://digitools-react-cart-management.netlify.app) | ◆ Netlify |
 
 </div>
 
@@ -187,6 +192,7 @@ A full-stack marketplace platform connecting service providers with customers th
 <p align="center">
 <a href="https://github.com/Tasmih/fixmate-home-service-marketplace"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://github.com/Tasmih/fixmate-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://fixmate-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -233,6 +239,7 @@ A full-stack digital publishing platform connecting readers, authors, and platfo
 <p align="center">
 <a href="https://github.com/Tasmih/fable-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://github.com/Tasmih/fable-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://fable-client-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -254,6 +261,7 @@ A responsive job marketplace web application enabling job seekers to search posi
 <p align="center">
 <a href="https://github.com/Tasmih/Hireloop-client"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://github.com/Tasmih/Hireloop-server"><img src="https://img.shields.io/badge/Backend-12235C?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://hireloop-client-ten.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
@@ -299,6 +307,7 @@ An interactive application with a responsive UI designed to expand vocabulary th
 
 <p align="center">
 <a href="https://github.com/Tasmih/english-vocabulary-app"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://english-pursuing-janala.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 
 </td>
@@ -322,6 +331,7 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 
 <p align="center">
 <a href="https://github.com/Tasmih/digitools-react-cart"><img src="https://img.shields.io/badge/Frontend-1EC8C0?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://digitools-react-cart-management.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a>
 </p>
 
 </td>
