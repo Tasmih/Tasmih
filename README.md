@@ -136,7 +136,7 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MongoDB Native Driver](https://img.shields.io/badge/MongoDB_Native_Driver-47A248?style=for-the-badge&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-1EC8C0?style=for-the-badge&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1EC8C0?style=for-the-badge&logo=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 <br/><br/>
@@ -406,7 +406,7 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&column=6&margin-w=15" alt="GitHub Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
 </div>
 
 <br/>
@@ -422,7 +422,7 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://snk-one.vercel.app/api/snake?github_username=Tasmih&color_snake=%231EC8C0&color_dots=%230D1117,%2312235C,%231EC8C0" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
