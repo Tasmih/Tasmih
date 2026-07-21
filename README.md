@@ -3,435 +3,298 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1EC8C0&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+with+React%2C+Next.js+%26+Node.js;TypeScript+%7C+MongoDB+%7C+Better+Auth;AI-Assisted+Development+Workflow;Creating+Modern+Web+Applications;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1EC8C0&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+with+React%2C+Next.js+%26+Node.js;TypeScript+%7C+MongoDB+%7C+Better+Auth;AI-Assisted+Development+Workflow;Turning+ideas+into+scalable+web+products;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Full Stack Web Developer** specializing in building modern, scalable, and responsive web applications using the **MERN + Next.js ecosystem**.
+Full Stack Web Developer building production-oriented web applications with the **MERN + Next.js** ecosystem.
 
-My development expertise includes **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, and MongoDB**. I focus on creating clean frontend architectures, efficient REST APIs, secure authentication systems, and user-friendly digital experiences.
-
-I also utilize an **AI-assisted development workflow** to improve productivity, explore better solutions, and build real-world applications with modern engineering practices.
+I specialize in crafting **scalable, maintainable web applications** using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB** — with clean architecture, robust REST APIs, responsive UI, and an **AI-assisted development workflow**.
 
 - 📍 **Location:** Dhaka, Bangladesh
-- 📫 **Email:** tasmih.mow88@gmail.com
-- 💬 **Ask me about:** React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, Better Auth, AI Integration
+- 📫 **Email:** [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com)
+- 💬 **Ask me about:** React, Next.js, TypeScript, Node.js, Express.js, MongoDB, Better Auth, AI Integration
 
 ---
 
-# 💼 Career Goals
+## 💼 Career Goals
 
-- 🎯 **Target Roles:**  
-  Full Stack Developer | Frontend Developer | React/Next.js Developer
-
-- 🚀 **Interested In:**  
-  Scalable web applications, AI-powered products, modern frontend architecture, and backend API development.
-
-- 📈 **Continuous Improvement:**  
-  Improving software engineering practices, system design skills, clean coding standards, and full-stack development expertise.
+- 🎯 **Target Roles:** Full Stack Developer · Frontend Developer · React/Next.js Developer
+- ⚡ **Focus Areas:** Scalable web applications, AI-powered products, and modern frontend architecture
 
 ---
 
-# 🚀 Current Activities
+## 🔭 Currently Working On
 
-- 🛠️ **Building FixMate**  
-  A full-stack home service marketplace platform designed to connect customers with service providers through modern web technologies.
-
-- 🤖 **Developing StudyPilot AI**  
-  An AI-powered learning companion focused on personalized learning support, study planning, and AI-assisted education features.
-
-- 📚 **Full Stack Engineering Practice**  
-  Building complete web applications with modern frontend frameworks, backend APIs, database solutions, and authentication systems.
+- 🛠️ **FixMate** — Building a full-stack home service marketplace with Next.js, TypeScript, and Better Auth
+- 🤖 **StudyPilot AI** — Developing an AI-powered learning companion with Gemini AI integration
+- 📚 Strengthening full-stack engineering skills across the MERN + Next.js ecosystem
 
 ---
 
-# 🚀 Live Applications
+## 🚀 Live Applications
 
-Currently deployed applications:
+Production deployments using modern cloud platforms including **Vercel** and **Netlify**:
 
-| Application | Live Demo | Platform |
-|-------------|-----------|----------|
-| 🤖 StudyPilot AI | https://studypilot-ai-client.vercel.app | Vercel |
-| 📖 StudyNook | https://study-nook-client-three.vercel.app | Vercel |
+| Application | URL | Platform |
+|---|---|---|
+| 🤖 **StudyPilot AI** | [studypilot-ai-client.vercel.app](https://studypilot-ai-client.vercel.app) | Vercel |
+| 📖 **StudyNook** | [study-nook-client-three.vercel.app](https://study-nook-client-three.vercel.app) | Vercel |
 
 ---
 
-# 🧰 Technical Skills
+## 🧰 Skills
 
-## 🎨 Frontend Development
+### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
 </p>
-
-**Technologies:**
 
 `HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React.js` · `Next.js` · `Tailwind CSS` · `HeroUI` · `Framer Motion`
 
----
-
-## ⚙️ Backend Development
+### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
 </p>
-
-**Technologies:**
 
 `Node.js` · `Express.js` · `REST API` · `API Design`
 
----
-
-## 🗄️ Database
+### Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database Skills" />
 </p>
-
-**Technologies:**
 
 `MongoDB` · `Mongoose` · `MongoDB Native Driver`
 
----
+### Authentication
 
-## 🔐 Authentication
+`Better Auth` · `JWT Authentication`
 
-- Better Auth
-- JWT Authentication
+### AI
 
----
+`Gemini AI Integration` · `AI-Assisted Development` · `Prompt Engineering`
 
-## 🤖 Artificial Intelligence
-
-- Gemini AI Integration
-- AI-Assisted Development
-- Prompt Engineering
-
----
-
-## 🛠️ Tools & Workflow
+### Tools & Workflow
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,npm" alt="Tools & Workflow" />
 </p>
-
-**Tools:**
 
 `Git` · `GitHub` · `VS Code` · `Vercel` · `Netlify` · `Postman` · `npm`
 
 ---
-# 🌟 Featured Projects
 
----
+## 🌟 Featured Projects
 
-## 🛠️ FixMate — Home Service Marketplace Platform
+### 1. FixMate — Home Service Marketplace Platform
 
-A full-stack home service marketplace platform that connects customers with service providers for various household services.
+A full-stack marketplace platform connecting service providers with customers through an intuitive interface and structured backend API.
 
-The platform focuses on creating a smooth service discovery and booking experience with a modern frontend, structured backend APIs, database management, and secure authentication.
-
-### ✨ Key Features
-
-- Customer and service provider workflows
-- Service category browsing and discovery
-- Service booking management
+**Features:**
+- Service discovery and catalog browsing
+- Seamless booking workflow
+- Provider management workflow
 - Secure authentication system
-- RESTful API-based backend architecture
+- REST API based backend architecture
 
-### 🧰 Tech Stack
+**Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Express.js` · `MongoDB` · `Better Auth`
 
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Express.js` · `MongoDB` · `Better Auth`
-
-### 🔗 Repository
-
-- Frontend:
-https://github.com/Tasmih/fixmate-home-service-marketplace
-
-- Backend:
-https://github.com/Tasmih/fixmate-server
+**Repository:**
+- **Frontend:** [fixmate-home-service-marketplace](https://github.com/Tasmih/fixmate-home-service-marketplace)
+- **Backend:** [fixmate-server](https://github.com/Tasmih/fixmate-server)
 
 ---
 
-# 🤖 StudyPilot AI — AI-Powered Learning Companion
+### 2. StudyPilot AI — AI-Powered Learning Companion
 
-An AI-powered learning platform designed to support students with personalized learning assistance, study planning features, and AI-based educational guidance.
+An intelligent learning assistant platform offering automated study plan generation, AI-powered learning assistance, and course guidance with Gemini AI integration.
 
-The platform integrates AI capabilities to enhance learning experiences and provide interactive study support.
+**Features:**
+- AI-powered learning assistant with Gemini AI integration
+- Interactive study planning and schedule creation
+- Personalized learning support and guidance
+- Explore templates and interactive dashboards
 
-### ✨ Key Features
+**Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Express.js` · `MongoDB Native Driver` · `Gemini AI`
 
-- AI-assisted learning support
-- Personalized study planning
-- Interactive learning templates
-- User authentication
-- Learning dashboard experience
+**Repository:**
+- **Frontend:** [StudyPilot-AI-Client](https://github.com/Tasmih/StudyPilot-AI-Client)
+- **Backend:** [StudyPilot-AI-Server](https://github.com/Tasmih/StudyPilot-AI-Server)
 
-### 🧰 Tech Stack
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Express.js` · `MongoDB Native Driver` · `Gemini AI`
-
-### 🔗 Repository
-
-- Frontend:
-https://github.com/Tasmih/StudyPilot-AI-Client
-
-- Backend:
-https://github.com/Tasmih/StudyPilot-AI-Server
-
-### 🌐 Live Demo
-
-https://studypilot-ai-client.vercel.app
+**Live Demo:** 🔗 [studypilot-ai-client.vercel.app](https://studypilot-ai-client.vercel.app)
 
 ---
 
-# 📚 Fable — Ebook Sharing & Creator Platform
+### 3. Fable — Ebook Sharing & Creator Platform
 
-A digital publishing platform that allows readers to explore ebooks while enabling creators to publish and manage digital content.
+A full-stack digital publishing platform connecting readers, authors, and platform managers with integrated Stripe payment processing.
 
-### ✨ Key Features
+**Features:**
+- Digital ebook discovery and reader bookmarks
+- Author publishing dashboard and catalog management
+- Stripe API payment processing integration
+- Administrative content workflow management
 
-- Ebook browsing and discovery
-- Bookmark functionality
-- Creator publishing workflow
-- Payment integration with Stripe
-- Admin management features
+**Tech Stack:** `Next.js` · `React` · `Tailwind CSS` · `Express.js` · `Node.js` · `MongoDB` · `Stripe API`
 
-### 🧰 Tech Stack
-
-`Next.js` · `React` · `Tailwind CSS` · `Express.js` · `Node.js` · `MongoDB` · `Stripe API`
-
-### 🔗 Repository
-
-- Frontend:
-https://github.com/Tasmih/fable-client
-
-- Backend:
-https://github.com/Tasmih/fable-server
+**Repository:**
+- **Frontend:** [fable-client](https://github.com/Tasmih/fable-client)
+- **Backend:** [fable-server](https://github.com/Tasmih/fable-server)
 
 ---
 
-# 💼 HireLoop — Job Management Platform
+### 4. HireLoop — Job Management Platform
 
-A job management application connecting job seekers and recruiters through a structured job listing and application workflow.
+A responsive job marketplace web application enabling job seekers to search positions and recruiters to post listings and track applications.
 
-### ✨ Key Features
+**Features:**
+- Job listing search and category filtering
+- Recruiter management dashboard for active postings
+- Application submission and tracking workflow
+- Company profile and listing management
 
-- Job listing and search functionality
-- Recruiter dashboard
-- Company profile management
-- Job posting workflow
-- Application management features
+**Tech Stack:** `Next.js` · `React` · `Tailwind CSS` · `HeroUI` · `Express.js` · `MongoDB`
 
-### 🧰 Tech Stack
-
-`Next.js` · `React` · `Tailwind CSS` · `HeroUI` · `Express.js` · `MongoDB`
-
-### 🔗 Repository
-
-- Frontend:
-https://github.com/Tasmih/Hireloop-client
-
-- Backend:
-https://github.com/Tasmih/Hireloop-server
+**Repository:**
+- **Frontend:** [Hireloop-client](https://github.com/Tasmih/Hireloop-client)
+- **Backend:** [Hireloop-server](https://github.com/Tasmih/Hireloop-server)
 
 ---
 
-# 📖 StudyNook — Study Room Booking System
+### 5. StudyNook — Study Room Booking System & API
 
-A study room booking platform that helps users explore available study spaces and reserve suitable time slots.
+A production-oriented study environment platform for browsing study locations and reserving slots with conflict-resolution backend logic.
 
-### ✨ Key Features
+**Features:**
+- Study room booking and slot reservation system
+- Interactive space discovery and schedule viewing
+- RESTful API backend for slot management
+- Session tracking and state persistence
 
-- Study room browsing
-- Booking and reservation workflow
-- REST API integration
-- Availability management
-- Responsive user interface
+**Tech Stack:** `React` · `Next.js` · `Node.js` · `Express.js` · `JWT` · `MongoDB`
 
-### 🧰 Tech Stack
+**Repository:**
+- **Frontend:** [study-nook-client](https://github.com/Tasmih/study-nook-client)
+- **Backend:** [StudyNook-server](https://github.com/Tasmih/StudyNook-server)
 
-`React` · `Next.js` · `Node.js` · `Express.js` · `JWT` · `MongoDB`
-
-### 🔗 Repository
-
-- Frontend:
-https://github.com/Tasmih/study-nook-client
-
-- Backend:
-https://github.com/Tasmih/StudyNook-server
-
-### 🌐 Live Demo
-
-https://study-nook-client-three.vercel.app
+**Live Demo:** 🔗 [study-nook-client-three.vercel.app](https://study-nook-client-three.vercel.app)
 
 ---
 
-# 🔤 English Vocabulary App
+### 6. English Vocabulary App
 
-An interactive vocabulary learning application designed to help users improve English vocabulary through organized learning modules.
+An interactive application with a responsive UI designed to expand vocabulary through organized word lists, meanings, and practice modules.
 
-### ✨ Key Features
+**Features:**
+- Vocabulary learning with structured word lists
+- Interactive quiz system for self-assessment
+- Search functionality across word entries
+- Custom word bookmarking module
 
-- Vocabulary categories
-- Word search functionality
-- Interactive quizzes
-- Bookmark system
-- Responsive user interface
+**Tech Stack:** `React` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
 
-### 🧰 Tech Stack
-
-`React` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
-
-### 🔗 Repository
-
-Frontend:
-https://github.com/Tasmih/english-vocabulary-app
+**Repository:**
+- **Frontend:** [english-vocabulary-app](https://github.com/Tasmih/english-vocabulary-app)
 
 ---
 
-# 🛒 Digitools — React Cart Management Application
+### 7. Digitools — React Cart Management Application
 
-A React-based shopping cart application demonstrating dynamic state management, product calculations, and responsive UI development.
+A responsive web interface demonstrating dynamic e-commerce cart management, state persistence, price calculations, and modern UI workflows.
 
-### ✨ Key Features
+**Features:**
+- Dynamic cart management with quantity updates
+- Real-time price calculation and total management
+- Persistent cart state handling
+- Fully responsive user interface
 
-- Add/remove cart items
-- Quantity updates
-- Dynamic price calculation
-- State persistence
-- Responsive design
+**Tech Stack:** `React` · `JavaScript` · `Tailwind CSS` · `HTML5`
 
-### 🧰 Tech Stack
-
-`React` · `JavaScript` · `Tailwind CSS` · `HTML5`
-
-### 🔗 Repository
-
-Frontend:
-https://github.com/Tasmih/digitools-react-cart
-
----
-# 🎓 Education & Professional Training
-
-## Education
-
-🎓 **Master of Pharmacy (M.Pharm)**
+**Repository:**
+- **Frontend:** [digitools-react-cart](https://github.com/Tasmih/digitools-react-cart)
 
 ---
 
-## Professional Training
+## 🎓 Education & Professional Training
 
-### 🚀 AI Driven Full Stack Web Engineer Bootcamp — Programming Hero
+### Education
+- **Master of Pharmacy (M.Pharm)**
 
-Completed an intensive full-stack web development program focused on building modern, real-world web applications.
-
-**Key Learning Areas:**
-
-- HTML5 & CSS3
-- Responsive UI Development
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Authentication Systems
-- REST API Development
-- Git & GitHub Workflow
-- AI-Assisted Development
-- Prompt Engineering Fundamentals
+### Professional Training
+- **AI Driven Full Stack Web Engineer Bootcamp** — *Programming Hero*
+  - Completed an intensive full-stack web engineering bootcamp focused on building production-ready web applications with modern development practices and AI-assisted workflows.
+  - **Key Technologies:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Mongoose, Better Auth, Git/GitHub, AI-Assisted Coding.
 
 ---
 
-# 🗣️ Languages
+## 🗣️ Languages
 
 - 🇧🇩 **Bengali:** Native
 - 🇬🇧 **English:** Professional Working Proficiency
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasmih&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasmih&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasmih&show_icons=true&theme=tokyonight&hide_border=true" alt="Tasmih's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasmih&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasmih&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-# 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasmih&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tasmih&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<!-- 
-Requires GitHub Action workflow setup:
-.github/workflows/snake.yml
--->
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tasmih&theme=tokyonight&hide_border=true" alt="Tasmih's GitHub Activity Graph" width="100%" />
 </p>
 
 ---
 
-# 👀 Profile Views
+## 🐍 Contribution Snake
 
+<!-- Note: Requires GitHub Action workflow setup at .github/workflows/snake.yml to generate output/github-contribution-grid-snake.svg -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tasmih&color=1EC8C0&style=flat-square" />
+  <img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 👀 Profile Views
 
-<p align="left">
-
-📧 Email:  
-https://mailto:tasmih.mow88@gmail.com
-
-<br/>
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/tasmih-rob-mow
-
-<br/>
-
-👥 Facebook:  
-https://www.facebook.com/tasmih.rob.mow.2024
-
-<br/>
-
-🐙 GitHub:  
-https://github.com/Tasmih
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tasmih&color=1EC8C0&style=flat-square" alt="Tasmih's Profile Views" />
 </p>
 
 ---
 
+## 📫 Connect With Me
+
+- ✉️ **Email:** [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tasmih-rob-mow](https://www.linkedin.com/in/tasmih-rob-mow)
+- 👥 **Facebook:** [facebook.com/tasmih.rob.mow.2024](https://www.facebook.com/tasmih.rob.mow.2024)
+- 🐙 **GitHub:** [github.com/Tasmih](https://github.com/Tasmih)
+
+---
+
 <p align="center">
-  <i>Building, learning, and improving every day 🚀</i>
+  <i>Building, learning, and improving every day.</i>
 </p>
