@@ -70,7 +70,6 @@ Scalable web applications, AI-powered products, and modern frontend architecture
 |:---:|---|---|
 | 🛠️ | **FixMate** | Building a full-stack home service marketplace with Next.js, TypeScript, and Better Auth |
 | 🤖 | **StudyPilot AI** | Developing an AI-powered learning companion with Gemini AI integration |
-| 📚 | **Continuous Learning** | Strengthening full-stack engineering skills across the MERN + Next.js ecosystem |
 
 </div>
 
