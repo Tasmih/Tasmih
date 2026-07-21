@@ -406,7 +406,7 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tasmih&theme=tokyonight&column=6&margin-w=15" alt="GitHub Profile Trophy" />
 </div>
 
 <br/>
@@ -421,14 +421,8 @@ Completed an intensive full-stack web engineering bootcamp focused on building p
 
 ## 🐍 Contribution Snake
 
-<!--
-IMPORTANT — one-time setup needed to make this animation appear:
-This image only renders after the "generate-snake" GitHub Action (in the
-snake.yml file provided alongside this README) has run at least once on
-the Tasmih/Tasmih repository. See the setup notes shared with this file.
--->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tasmih/Tasmih/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
