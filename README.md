@@ -31,9 +31,9 @@ I specialize in crafting **scalable, maintainable web applications** using **Rea
 
 <div align="center">
 
-| 📍 Location | 📫 Email | 📞 Contact | 💬 Ask me about |
+| 📍 Location | 📫 Email | 📞 Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 💬 Ask me about |
 |:---:|:---:|:---:|:---:|
-| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | +880 1796-585789 | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
+| Dhaka, Bangladesh | [tasmih.mow88@gmail.com](mailto:tasmih.mow88@gmail.com) | +880&nbsp;1796-585789 | React · Next.js · TypeScript · Node.js · Express.js · MongoDB · Better Auth · AI Integration |
 
 </div>
 
@@ -340,6 +340,26 @@ A responsive web interface demonstrating dynamic e-commerce cart management, sta
 
 </td>
 <td width="50%" valign="top">
+
+<h3 align="center">🐉 Dragon News</h3>
+<p align="center"><b>Next.js News & Media Portal</b></p>
+
+A modern full-stack news and media portal featuring category-based article distribution, user authentication, and interactive news feeds.
+
+**Features**
+- Category-based news browsing and article filtering
+- Secure authentication system powered by Better Auth
+- Responsive news layout with DaisyUI and Tailwind CSS
+- Real-time breaking news ticker animation
+- MongoDB database integration for persistent content
+
+`Next.js` `React` `Tailwind CSS` `Better Auth` `MongoDB` `DaisyUI`
+
+<p align="center">
+<a href="https://github.com/Tasmih/dragon-news-next-better-auth"><img src="https://img.shields.io/badge/Repository-12235C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://drgon-news.vercel.app/category/01"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
