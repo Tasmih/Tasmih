@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-> Full Stack Web Developer building production-oriented web applications with the **MERN + Next.js** ecosystem.
+> Mern Stack Web Developer building production-oriented web applications with the **MERN + Next.js** ecosystem.
 
 I specialize in crafting **scalable, maintainable web applications** using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB** — with clean architecture, robust REST APIs, responsive UI, and an **AI-assisted development workflow**.
 
