@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:12235C,70:1EC8C0,100:0F2027&height=230&section=header&text=Tasmih%20Rob%20Mow&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=MERN%20Stack%20and%20Frontend%20Developer&descAlignY=52&descSize=20&fontFamily=Fira+Code" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1EC8C0&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Building+with+React%2C+Next.js+%26+Node.js;TypeScript+%7C+MongoDB+%7C+Better+Auth;AI-Assisted+Development+Workflow;Turning+ideas+into+scalable+web+products" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1EC8C0&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Frontend+Developer;React.js+%26+Next.js+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+MongoDB;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
 <br/>
 
 <a href="mailto:tasmih.mow88@gmail.com"><img src="https://img.shields.io/badge/Email-1EC8C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
